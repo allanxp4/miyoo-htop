@@ -15,6 +15,8 @@ Port of the popular UNIX utility/task manager [htop](https://htop.dev/) for Onio
 
 Now you should be able to use it as a Onion App (that uses the existing onion `st` terminal) or over SSH/Telnet using the normal `htop` program.
 
+To exit, press X to open the on-screen terminal keyboard and press F9.
+
 ## How to build:
 
 If you don't have a machine capable of running ARM32 docker containers (Pi, ARM SBCs, ARM Macs), you need to setup QEMU to run with docker.
