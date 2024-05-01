@@ -7,8 +7,7 @@ Port of the popular UNIX utility/task manager [htop](https://htop.dev/) for Onio
 ### Manual way:
 - Download the latest [release](https://github.com/allanxp4/miyoo-htop/releases/latest/download/Htop.zip), extract it and move the downloaded folder into the `/mnt/SDCARD/App` folder of your SD Card.
 - You can also use the Onion web file manager to upload the folder.
-
-If you want to use it globally as `htop` on a shell, run `/mnt/SDCARD/App/Htop/create-symlink.sh`.
+- If you want to use it globally as `htop` on a shell, run `/mnt/SDCARD/App/Htop/create-symlink.sh`.
 
 ### SSH Shell Way:
   - login to your Miyoo SSH and run `wget -q -O - https://github.com/allanxp4/miyoo-htop/releases/latest/download/remoteinst.sh | sh`.
