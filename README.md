@@ -19,7 +19,7 @@ Now you should be able to use it as a Onion App (that uses the existing onion `s
 
 If you don't have a machine capable of running ARM32 docker containers (Pi, ARM SBCs, ARM Macs), you need to setup QEMU to run with docker.
 
-After being able to run arm32 containers, just run `./build.sh` and a `Htop.zip` folder should appear in the project folder.
+With a setup capable of running arm32 containers, just run `./build.sh` and a `Htop.zip` folder should appear in the project folder.
 
 ## Some details
 Included busybox has a broken/weird TERMINFO, so we supply our own
