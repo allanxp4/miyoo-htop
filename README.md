@@ -25,4 +25,6 @@ Included busybox has a broken/weird TERMINFO, so we supply our own
 Compiled statically with musl to avoid any library compatibility or rootfs compatibility issues
 
 TODO: use a cross compiler instead of the native image (not a priority for me since my daily driver is ARM)
+
+![Device running htop on screen](.github/miyoo.jpg)
   
