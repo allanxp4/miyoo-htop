@@ -2,7 +2,8 @@
 
 ## How to install:
 ### Manual way:
-  - Download the latest [release](https://github.com/allanxp4/miyoo-htop/releases/latest/download/Htop.zip), extract it and move the downloaded folder into `/mnt/SDCARD/App`.
+  - Download the latest [release](https://github.com/allanxp4/miyoo-htop/releases/latest/download/Htop.zip), extract it and move the downloaded folder into the `/mnt/SDCARD/App` folder of your SD Card.
+  - You can also use the Onion web file manager to upload the folder.
   - If you want to use it globally as `htop` on a shell, run `/mnt/SDCARD/App/Htop/create-symlink.sh`.
 
 ### SSH Shell Way:
