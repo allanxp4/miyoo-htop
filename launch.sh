@@ -1,3 +1,4 @@
 #!/bin/sh
-source $PWD/terminfo.sh
-st -q -e $PWD/htop
+export TERMINFO_DIRS="$PWD/terminfo"
+export PATH="$PWD:$PATH"
+st -q -e htop

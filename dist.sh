@@ -1,1 +1,1 @@
-zip -r miyoo-htop.zip htop htop.png config.json launch.sh terminfo.sh terminfoS
+zip -r miyoo-htop.zip config.json create-symlink.sh htop htop.png htop.sh launch.sh
