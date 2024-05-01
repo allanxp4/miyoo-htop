@@ -1,0 +1,6 @@
+{
+	"label":	"htop",
+	"icon":	"/mnt/SDCARD/App/Htop/htop.png",
+	"launch":	"launch.sh",
+	"description":	"an interactive process viewer"
+}
