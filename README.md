@@ -1,4 +1,7 @@
 # Htop for OnionOS on Miyoo Mini Plus
+Port of the popular UNIX utility/task manager [htop](https://htop.dev/) for OnionOS.
+
+![Device running htop on screen](.github/miyoo.jpg)
 
 ## How to install:
 ### Manual way:
@@ -26,5 +29,4 @@ Compiled statically with musl to avoid any library compatibility or rootfs compa
 
 TODO: use a cross compiler instead of the native image (not a priority for me since my daily driver is ARM)
 
-![Device running htop on screen](.github/miyoo.jpg)
   
